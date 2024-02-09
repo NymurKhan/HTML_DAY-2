@@ -1,0 +1,43 @@
+.thikthak{
+    text-decoration:overline;
+    text-align: center;
+    border: 10px solid magenta;
+    width: 50%;
+    margin: 0%;
+    padding: 30px;
+}
+.eilo{
+    background-color: aqua;
+    border: 2px green;
+}
+.heio{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    height: 400px;
+    width: 900px;
+    background-image: url(images/alaska.jpeg);
+    background-repeat: no-repeat;
+    background-color: blanchedalmond;
+    background-position: top;
+    background-size: cover;
+
+    
+}
+.hellomammah{
+    border: 4px solid red;
+    border-color: blueviolet;
+    display: block;
+}
+.Nymur{
+    color: blueviolet;
+    font-size: xx-large;
+    background-color: rgb(10, 173, 111);
+    border: 5px solid rgb(249, 237, 0);
+    border-radius: 10px;
+    padding: 50px;
+    width: 400px;
+    height: 300px;
+    box-shadow: 5px 5px black;
+    
+}
